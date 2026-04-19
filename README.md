@@ -39,8 +39,8 @@ This event was conducted as part of an international symposium **Zyphoria'26**.
 
 ## 📁 Repository Structure
 
+```
 Bug_Hunt/
-│
 ├── Round_1/
 │   ├── question_1.py
 │   ├── question_2.py
@@ -54,6 +54,8 @@ Bug_Hunt/
 │   ├── ...
 │   ├── question_5.py
 │   └── batch_file.bat
+```
+
 --- 
 
 ## 🚀 Tech Stack
