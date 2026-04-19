@@ -54,7 +54,6 @@ Bug_Hunt/
 │   ├── ...
 │   ├── question_5.py
 │   └── batch_file.bat
-
 --- 
 
 ## 🚀 Tech Stack
