@@ -1,0 +1,2 @@
+["eat","tea","tan","ate","nat","bat"]:[["eat","tea","ate"],["tan","nat"],["bat"]]
+["abc","bac","cab"]:[["abc","bac","cab"]]
